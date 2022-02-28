@@ -1,4 +1,4 @@
-<h1> Working with Vagrant and Virtual Box </h1>
+<h1> Working with Vagrant and Virtual Box </h1>  
 > To setup Ubuntu VM on local machine  
 1. Download Vagrant  
 2. Download VirtualBox
